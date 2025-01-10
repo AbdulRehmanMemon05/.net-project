@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul Rehman\\Downloads\\my 10 pearls\\backend\\TaskManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D87B3C6-B2C3-4714-8682-7AF255F37DF4}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\abdul rehman\\downloads\\my 10 pearls\\backend\\taskmanagementapp\\taskmanagementapp\\taskmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D87B3C6-B2C3-4714-8682-7AF255F37DF4}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\taskmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D87B3C6-B2C3-4714-8682-7AF255F37DF4}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\abdul rehman\\downloads\\my 10 pearls\\backend\\taskmanagementapp\\taskmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D87B3C6-B2C3-4714-8682-7AF255F37DF4}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdul Rehman\\Downloads\\my 10 pearls\\backend\\TaskManagementApp\\TaskManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdul Rehman\\Downloads\\my 10 pearls\\backend\\TaskManagementApp\\TaskManagementApp\\appsettings.json",
+              "RelativeToolTip": "TaskManagementApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T01:00:13.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagementApp",
+              "DocumentMoniker": "C:\\Users\\Abdul Rehman\\Downloads\\my 10 pearls\\backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+              "RelativeDocumentMoniker": "TaskManagementApp\\TaskManagementApp.csproj",
+              "ToolTip": "C:\\Users\\Abdul Rehman\\Downloads\\my 10 pearls\\backend\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+              "RelativeToolTip": "TaskManagementApp\\TaskManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T00:40:30.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
